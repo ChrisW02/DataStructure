@@ -3,7 +3,20 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <content url="jar://$USER_HOME$/Downloads/lec10.jar!/">
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec10.jar!/" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec10.jar!/META-INF" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec10.jar!/comp2011" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec10.jar!/comp2011/lec10" isTestSource="false" />
+    </content>
+    <content url="jar://$USER_HOME$/Downloads/lec9.jar!/">
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec9.jar!/" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec9.jar!/META-INF" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec9.jar!/comp2011" isTestSource="false" />
+      <sourceFolder url="jar://$USER_HOME$/Downloads/lec9.jar!/comp2011/lec9" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
